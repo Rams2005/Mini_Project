@@ -68,7 +68,7 @@ public class AdminOperations {
 						try {
 							Statement st = conn.createStatement();
 							
-							ResultSet rs=st.executeQuery("SELECT * FROM mini_proj.product order by pid ASC");
+							ResultSet rs=st.executeQuery("SELECT * FROM product order by pid ASC");
 							while(rs.next())
 							{
 								Product p=new Product(rs.getInt("pid"),rs.getString("p_name"),rs.getString("p_descrition"),rs.getInt("p_price"),rs.getInt("pa_quantity"));

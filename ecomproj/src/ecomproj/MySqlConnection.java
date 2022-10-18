@@ -11,7 +11,7 @@ public class MySqlConnection {
 		try {
 			Class.forName("com.mysql.cj.jdbc.Driver");
 
-			 conn=DriverManager.getConnection("jdbc:mysql://localhost:3306/mini_proj","root","R@ms7030646480");
+			 conn=DriverManager.getConnection("jdbc:mysql://localhost:3306/ecom","root","amrutakadam5#");
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
