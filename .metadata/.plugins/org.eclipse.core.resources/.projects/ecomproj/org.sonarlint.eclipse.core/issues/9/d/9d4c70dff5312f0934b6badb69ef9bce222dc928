@@ -1,0 +1,53 @@
+
+c	java:S106/"9Replace this use of System.out or System.err by a logger.(„‡»°H<RMAJORZ
+CODE_SMELL
+k	java:S125z"<This block of commented-out lines of code should be removed.(ª¸¿ÉùÿÿÿÿHHRMAJORZ
+CODE_SMELL
+h	java:S106d"9Replace this use of System.out or System.err by a logger.(¸ïÔíùÿÿÿÿHERMAJORZ
+CODE_SMELL
+c	java:S106`"9Replace this use of System.out or System.err by a logger.(²”ÁãHDRMAJORZ
+CODE_SMELL
+c	java:S106["9Replace this use of System.out or System.err by a logger.(­âý¦HBRMAJORZ
+CODE_SMELL
+h	java:S106K"9Replace this use of System.out or System.err by a logger.(¸ØÁ†úÿÿÿÿH?RMAJORZ
+CODE_SMELL
+h	java:S106"9Replace this use of System.out or System.err by a logger.(†¿æîþÿÿÿÿH5RMAJORZ
+CODE_SMELL
+h	java:S106"9Replace this use of System.out or System.err by a logger.(‚£Þ—ûÿÿÿÿH6RMAJORZ
+CODE_SMELL
+c	java:S106N"9Replace this use of System.out or System.err by a logger.(¤¯€H@RMAJORZ
+CODE_SMELL
+h	java:S106
+"9Replace this use of System.out or System.err by a logger.(¤¨œ úÿÿÿÿH3RMAJORZ
+CODE_SMELL
+T	java:S108‚")Either remove or fill this block of code.(”ý¾HIRMAJORZ
+CODE_SMELL
+N	java:S131""Add a default case to this switch.(ÂúïiH4RCRITICALZ
+CODE_SMELL
+h	java:S106Y"9Replace this use of System.out or System.err by a logger.(ÿ¯¢®üÿÿÿÿHCRMAJORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(æì¦çH9RMAJORZ
+CODE_SMELL
+h	java:S106f"9Replace this use of System.out or System.err by a logger.(—óùêúÿÿÿÿHFRMAJORZ
+CODE_SMELL
+h	java:S1066"9Replace this use of System.out or System.err by a logger.(‹ñ¾šÿÿÿÿÿH=RMAJORZ
+CODE_SMELL
+h	java:S106"9Replace this use of System.out or System.err by a logger.(®Æ ØýÿÿÿÿH7RMAJORZ
+CODE_SMELL
+c	java:S106;"9Replace this use of System.out or System.err by a logger.(¥Û··H>RMAJORZ
+CODE_SMELL
+h	java:S106)"9Replace this use of System.out or System.err by a logger.(›¥†ÌýÿÿÿÿH;RMAJORZ
+CODE_SMELL
+h	java:S106X"9Replace this use of System.out or System.err by a logger.(Ýÿ§ÚýÿÿÿÿHARMAJORZ
+CODE_SMELL
+c	java:S106%"9Replace this use of System.out or System.err by a logger.(äŸ•‹H:RMAJORZ
+CODE_SMELL
+€
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(Çµí‘H!RCRITICALZ
+CODE_SMELL
+k	java:S125!"<This block of commented-out lines of code should be removed.(ËÀ™·øÿÿÿÿH8RMAJORZ
+CODE_SMELL
+c	java:S106l"9Replace this use of System.out or System.err by a logger.(ç¦ó‚HGRMAJORZ
+CODE_SMELL
+o	java:S106x"9Replace this use of System.out or System.err by a logger.(½‘Ïìøÿÿÿÿ8Î·Áá¾0H{RMAJORZ
+CODE_SMELL
