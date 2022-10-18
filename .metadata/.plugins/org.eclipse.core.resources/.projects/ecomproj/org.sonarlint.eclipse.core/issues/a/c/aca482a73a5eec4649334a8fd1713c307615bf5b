@@ -1,0 +1,57 @@
+
+h	java:S106v"9Replace this use of System.out or System.err by a logger.(éå•ÑşÿÿÿÿHbRMAJORZ
+CODE_SMELL
+c	java:S106B"9Replace this use of System.out or System.err by a logger.(”š¨ÓHYRMAJORZ
+CODE_SMELL
+u
+java:S2095l"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀÖĞ½HMRBLOCKERZBUG
+{
+java:S2095›"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¦ƒî¡ÿÿÿÿÿHORBLOCKERZBUG
+~
+java:S1104"NMake sc a static final constant or non-public and provide accessors if needed.(”Ä²ıÿÿÿÿHJRMINORZ
+CODE_SMELL
+X
+java:S1444"(Make this "public static sc" field final(”Ä²ıÿÿÿÿHKRMINORZ
+CODE_SMELL
+k	java:S125L"<This block of commented-out lines of code should be removed.(óõíïüÿÿÿÿHZRMAJORZ
+CODE_SMELL
+h	java:S106a"9Replace this use of System.out or System.err by a logger.(úõ–áùÿÿÿÿH]RMAJORZ
+CODE_SMELL
+k	java:S125"<This block of commented-out lines of code should be removed.(ñ‹–õøÿÿÿÿHSRMAJORZ
+CODE_SMELL
+c	java:S106n"9Replace this use of System.out or System.err by a logger.(í·ÒùH^RMAJORZ
+CODE_SMELL
+h	java:S106-"9Replace this use of System.out or System.err by a logger.(ÈÚŞœşÿÿÿÿHWRMAJORZ
+CODE_SMELL
+c	java:S106r"9Replace this use of System.out or System.err by a logger.(«˜‡ÛH`RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(—¹ğ·HeRMAJORZ
+CODE_SMELL
+h	java:S106"9Replace this use of System.out or System.err by a logger.(—ÍÒˆùÿÿÿÿHdRMAJORZ
+CODE_SMELL
+c	java:S106\"9Replace this use of System.out or System.err by a logger.(¡Ù¯ÂH\RMAJORZ
+CODE_SMELL
+b	java:S106+"9Replace this use of System.out or System.err by a logger.(Æ—ÏHVRMAJORZ
+CODE_SMELL
+d	java:S106¢"9Replace this use of System.out or System.err by a logger.(¤±ûÅHfRMAJORZ
+CODE_SMELL
+h	java:S106x"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿHcRMAJORZ
+CODE_SMELL
+m
+java:S2095E"GUse try-with-resources or close this "Statement" in a "finally" clause.(˜ğ×HLRBLOCKERZBUG
+U
+java:S1905"*Remove this unnecessary cast to "Product".(ï“â‘HQRMINORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(¢­Û‘HURMAJORZ
+CODE_SMELL
+h	java:S106t"9Replace this use of System.out or System.err by a logger.(‹”ãşÿÿÿÿHaRMAJORZ
+CODE_SMELL
+h	java:S106o"9Replace this use of System.out or System.err by a logger.(‹¼¾’üÿÿÿÿH_RMAJORZ
+CODE_SMELL
+f	java:S125"<This block of commented-out lines of code should be removed.(€æ‹ÆHPRMAJORZ
+CODE_SMELL
+F
+java:S3626S"Remove this redundant jump.(ûÁİ…HXRMINORZ
+CODE_SMELL
+{
+java:S2095Š"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(©€Ğ°ÿÿÿÿÿHNRBLOCKERZBUG

@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 GitRepositoriesView.GitDirectories=C\:\\Users\\HP\\Documents\\Mini_Project\\.git;C\:\\Users\\HP\\Documents\\Final_proj\\.git;
 GitRepositoriesView.GitDirectories.relative=.git;C\:\\Users\\HP\\Documents\\Final_proj\\.git;
+=======
+GitRepositoriesView.GitDirectories=C\:\\Users\\LENOVO\\Desktop\\rProject\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;
+core_autoIgnoreDerivedResources=false
+>>>>>>> 86062a9a296150026fe7759bab9ce22ae3b97da0
 eclipse.preferences.version=1

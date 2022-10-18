@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 INDEX VERSION 1.131+C:\Users\HP\Documents\Mini_Project\.metadata\.plugins\org.eclipse.jdt.core
 911398812.index
 971378871.index
@@ -17,3 +18,10 @@ INDEX VERSION 1.131+C:\Users\HP\Documents\Mini_Project\.metadata\.plugins\org.ec
 408771512.index
 2923218292.index
 2831726757.index
+=======
+INDEX VERSION 1.131+C:\Users\LENOVO\Desktop\rProject\.metadata\.plugins\org.eclipse.jdt.core
+3144856468.index
+1251541899.index
+3248658617.index
+1865797976.index
+>>>>>>> 86062a9a296150026fe7759bab9ce22ae3b97da0

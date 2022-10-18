@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
+<<<<<<< HEAD
 <entry loc="C:\Program Files\Java\jre1.8.0_241" stamp="1660131805595"/>
+=======
+    <entry loc="C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.1.v20211116-1657\jre" stamp="1659853168953"/>
+    <entry loc="C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.1.v20211116-1657" stamp="1659853169138"/>
+>>>>>>> 86062a9a296150026fe7759bab9ce22ae3b97da0
 </dirs>
